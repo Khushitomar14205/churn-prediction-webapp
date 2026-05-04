@@ -77,6 +77,7 @@ c3. lass_weight="balanced"
 2. Real-time churn prediction
 3. Probability score + visual indicator
 4. Smart recommendation messages
+   
 🔹 Insights Dashboard
 1. Churn distribution visualization
 2. Tenure Vs Churn
